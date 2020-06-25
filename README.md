@@ -16,7 +16,7 @@ Score: Correct Pairs: 2; Percent Correct: 0.6666667; Points: 7 (out of 10)
 
 # Developer usage
 
-See [`OrderScorerCli`](src/main/java/io/github/garysheppardjr/order/scorer/OrderScorerCli.java) to see how developers can use leverage the [`OrderScorer`](src/main/java/io/github/garysheppardjr/order/scorer/OrderScorer.java) class.
+See [`OrderScorerCli`](src/main/java/io/github/garysheppardjr/orderscorer/OrderScorerCli.java) to see how developers can use leverage the [`OrderScorer`](src/main/java/io/github/garysheppardjr/orderscorer/OrderScorer.java) class.
 
 # License
 
